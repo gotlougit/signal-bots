@@ -1,6 +1,6 @@
 #!/bin/bash
 
-#enter phone number here
+#enter phone number here, eg if phone number is +1 555 555 5555, enter as +15555555555 only
 USER=
 #Optional: enter PATH in case you don't have signal-cli installed in the proper directory
 #PATH=
